@@ -1,4 +1,3 @@
-$ chmod +x
 #!/usr/bin/env bash
 
 ## shell options
